@@ -56,9 +56,9 @@ body {
   position: absolute;
   right: 40px;
   top: 0px;
-  /* width: 700px; */
-  height: 80%;
-  margin-top: 0px;
+  width: 600px;
+  height: 800px;
+  margin-top: 20px;
 }
 
 .exercise-card {
@@ -104,7 +104,7 @@ body {
   text-decoration: none;
 }
 
-@media screen and (max-width: 1020px) {
+@media screen and (max-width: 1200px) {
   .detail-image {
     width: 300px;
     height: 300px;
